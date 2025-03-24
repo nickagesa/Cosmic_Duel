@@ -14,3 +14,11 @@
    ```sh
    git clone https://github.com/nickagesa/Cosmic_Duel.git
    cd Cosmic-Duel
+
+2. **Install Dependencies**:
+   ```sh
+   pip install -r requirements.txt
+
+3. **Run the Game:**:
+ ```sh
+   python main.py
