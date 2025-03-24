@@ -20,5 +20,8 @@
    pip install -r requirements.txt
 
 3. **Run the Game:**:
- ```sh
+   ```sh
    python main.py
+
+## Learn How to Built the Game! 📖
+For a step-by-step breakdown of how build this game, check out Cosmic Duel – Development Guide. This guide explains the game mechanics, Pygame usage, and coding techniques used.
