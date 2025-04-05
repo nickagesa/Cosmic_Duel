@@ -1,8 +1,8 @@
 # Cosmic Duel
 A fast-paced 2D space battle game made using python and pygame
 
-<img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="360" height="250" />
-<img src="https://github.com/user-attachments/assets/999359f8-bbbd-4e08-a20b-bdd9383f6dd8" width="360" height="250" />
+<img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="300" height="190" />
+<img src="https://github.com/user-attachments/assets/999359f8-bbbd-4e08-a20b-bdd9383f6dd8" width="300" height="190" />
 
 ## Installation
 
@@ -18,7 +18,8 @@ A fast-paced 2D space battle game made using python and pygame
 3. **Run the Game:**:
    ```sh
    python main.py
-## IF you just want to play the game 
+
+## If you just want to only play the game 
 Download the Cosmic_Duel.exe and assets only.
 
 ## Learn How to Built the Game! 📖
