@@ -1,9 +1,13 @@
 # Cosmic Duel
 A fast-paced 2D space battle game made using python and pygame
 
-<img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="300" height="190" />
-<img src="https://github.com/user-attachments/assets/999359f8-bbbd-4e08-a20b-bdd9383f6dd8" width="300" height="190" />
+<img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="400" height="290" />
 
+*Ref 1: Start Screen*
+
+<img src="https://github.com/user-attachments/assets/999359f8-bbbd-4e08-a20b-bdd9383f6dd8" width="400" height="290" />
+
+*Ref 1: Game Over Screen*
 ## Installation
 
 1. **Clone the Repository**:
