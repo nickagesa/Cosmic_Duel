@@ -2,7 +2,7 @@
 A fast-paced 2D space battle game made using python and pygame. 
 We designed the game with smooth spaceship controls, enabling fluid movement and dynamic combat. 
 It features both player-vs-player and player-vs-bot modes, with an AI-powered bot that chases, dodges, and shoots, keeping the duel intense. 
-From player selection to bot behavior, every element is built from scratch to make the experience engaging and a great project for anyone curious about game development and AI implementation. If you are not here to code feel free to download Cosmic_Duel.exe and the assets folder and enjoy playing the game.
+From player selection to bot behavior, every element is built from scratch to make the experience engaging and a great project for anyone curious about game development and AI implementation. If you are not here to code feel free to download <a href="https://github.com/nickagesa/Cosmic_Duel/blob/main/Cosmic_Duel.exe">Cosmic_Duel.exe</a> and the <a href="https://github.com/nickagesa/Cosmic_Duel/tree/main/Assets">Assets folder</a> and enjoy playing the game.
 
 <img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="400" height="250" />
 
