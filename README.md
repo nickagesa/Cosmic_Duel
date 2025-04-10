@@ -1,5 +1,8 @@
 # Cosmic Duel
-A fast-paced 2D space battle game made using python and pygame
+A fast-paced 2D space battle game made using python and pygame. 
+We designed the game with smooth spaceship controls, enabling fluid movement and dynamic combat. 
+It features both player-vs-player and player-vs-bot modes, with an AI-powered bot that chases, dodges, and shoots, keeping the duel intense. 
+From player selection to bot behavior, every element is built from scratch to make the experience engaging and a great project for anyone curious about game development and AI implementation. If you are not here to code feel free to download Cosmic_Duel.exe and the assets folder and enjoy playing the game.
 
 <img src="https://github.com/user-attachments/assets/7b1e86d9-8072-451e-ad2f-e544da7722b5" width="400" height="250" />
 
@@ -26,10 +29,14 @@ A fast-paced 2D space battle game made using python and pygame
 3. **Run the Game:**:
    ```sh
    python main.py
-
-## If you just want to only play the game 
-Download the Cosmic_Duel.exe and assets only.
-
+   
 ## Learn How to Built the Game! 📖
 For a step-by-step breakdown of how build this game, check out the game tutorials, I also made the bot more smart so check out Cosmic_Duel_Smart_Bot.py 
 Also check out CosmicDuel_1.0_DevGuide.pdf to convert game to exe.
+
+## License
+This project is open-source and free to use. I though the images require Arrtibution:
+<a href="https://www.freepik.com/free-vector/alien-planet-landscape-space-game-background-fantasy-wallpaper-with-galaxy-planet-ground-with-rocks-lava-night-cosmic-scene-mars-surface-nebula-vector-cartoon-illustration_63878340.htm#fromView=keyword&page=2&position=21&uuid=76a07908-2d3f-436c-8834-e2f10d65397c&query=Animated+Space+Background">Image by upklyak on Freepik</a>
+
+
+Made with ❤️ for learning purposes.
