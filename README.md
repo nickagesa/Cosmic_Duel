@@ -35,7 +35,8 @@ For a step-by-step breakdown of how build this game, check out the game tutorial
 Also check out CosmicDuel_1.0_DevGuide.pdf to convert game to exe.
 
 ## License
-This project is open-source and free to use. I though the images require Arrtibution:
+This project is open-source and free to use. 
+Although the images require Arrtibution:
 <a href="https://www.freepik.com/free-vector/alien-planet-landscape-space-game-background-fantasy-wallpaper-with-galaxy-planet-ground-with-rocks-lava-night-cosmic-scene-mars-surface-nebula-vector-cartoon-illustration_63878340.htm#fromView=keyword&page=2&position=21&uuid=76a07908-2d3f-436c-8834-e2f10d65397c&query=Animated+Space+Background">Image by upklyak on Freepik</a>
 
 
